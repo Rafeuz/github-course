@@ -1,7 +1,3 @@
 # Git Course
 
-balbalbalbalbalblabl
-
-alo quem fala
-
-prosseguindo
+Agora vai ficar bonitinho.
